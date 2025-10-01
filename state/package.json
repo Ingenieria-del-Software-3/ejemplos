@@ -1,0 +1,20 @@
+{
+  "name": "decorator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "tsx pedido_base.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all",
+    "arrowParens": "always",
+    "printWidth": 120,
+    "tabWidth": 4
+  }
+}
